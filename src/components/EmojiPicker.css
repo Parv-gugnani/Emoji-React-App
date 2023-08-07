@@ -1,0 +1,33 @@
+.emoji-picker {
+  text-align: center;
+  padding: 20px;
+}
+
+.emoji-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+/* ... existing styles ... */
+
+input {
+  margin: 10px 0;
+  padding: 5px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.emoji-list span {
+  font-size: 2rem;
+  margin: 5px;
+  cursor: pointer;
+}
+
+input {
+  margin: 10px 0;
+  padding: 5px;
+  width: 100%;
+  max-width: 300px;
+}
